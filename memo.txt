@@ -1,0 +1,4 @@
+redux : 리덕스 관련 코드 전부
+config : 리덕스 설정 관령 파일 전부
+configStore : 중앙 State 관리소 -> 설정 코드 (.js)
+modules : State의 그룹 TodoList. > todo.js (삭제여부, 제목 등)
